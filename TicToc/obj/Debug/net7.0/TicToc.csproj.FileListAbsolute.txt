@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\TicToc\bin\Debug\net7.0\TicToc.exe
+C:\Users\LAB4\Desktop\TicToc\bin\Debug\net7.0\TicToc.deps.json
+C:\Users\LAB4\Desktop\TicToc\bin\Debug\net7.0\TicToc.runtimeconfig.json
+C:\Users\LAB4\Desktop\TicToc\bin\Debug\net7.0\TicToc.dll
+C:\Users\LAB4\Desktop\TicToc\bin\Debug\net7.0\TicToc.pdb
+C:\Users\LAB4\Desktop\TicToc\obj\Debug\net7.0\TicToc.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\TicToc\obj\Debug\net7.0\TicToc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\TicToc\obj\Debug\net7.0\TicToc.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\TicToc\obj\Debug\net7.0\TicToc.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\TicToc\obj\Debug\net7.0\TicToc.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\TicToc\obj\Debug\net7.0\TicToc.dll
+C:\Users\LAB4\Desktop\TicToc\obj\Debug\net7.0\refint\TicToc.dll
+C:\Users\LAB4\Desktop\TicToc\obj\Debug\net7.0\TicToc.pdb
+C:\Users\LAB4\Desktop\TicToc\obj\Debug\net7.0\TicToc.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\TicToc\obj\Debug\net7.0\ref\TicToc.dll
